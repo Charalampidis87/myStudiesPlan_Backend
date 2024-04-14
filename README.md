@@ -12,6 +12,7 @@ To **run** this project, you will need:
 
 **Optional**
 - [Certbot](https://certbot.eff.org/instructions) (Automate Let's Encrypt TLS Certificate issuance, installation and renewal)
+- [myStudiesPlan_CAS-Server](https://github.com/Charalampidis87/myStudiesPlan_CAS-Server) (Central Authorization Service `CAS` for Single Sign On `SSO` implementation)
 
 ## Database configuration
 Before compiling, configure myStudiesPlan to match your system settings.
